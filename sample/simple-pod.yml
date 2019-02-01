@@ -8,3 +8,4 @@ spec:
     image: nginx
     ports:
     - containerPort: 8080
+    - nodePort: 8081
