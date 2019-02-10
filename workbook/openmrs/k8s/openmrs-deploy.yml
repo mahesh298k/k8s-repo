@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: openmrs
-        image: alex7777/openmrs
+        image: alex7777/openmrs:2.1.4
         ports:
         - containerPort: 8080
